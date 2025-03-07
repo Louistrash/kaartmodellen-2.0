@@ -1,0 +1,6 @@
+project_id = "uoscbmdiruhjsbmitjgq"
+
+[api]
+# Disables sending the version to the API. When set to true, an
+# X-Supabase-Client-Version header will be sent with all requests.
+enabled = true
